@@ -1,0 +1,30 @@
+@media (max-width: 1185px) and (min-width: 769px){
+    .about > div > div:first-child h1,
+    .skills .projects h1,
+    .work h1,
+    .contact .cv h1
+    {
+        font-size: 70px;
+        line-height: 70px;
+    }
+
+    .about .targeta .cards > div{
+        width: 29vw;
+
+    }
+}
+
+@media (max-width: 900px) and (min-width: 769px){
+    .about > div > div:first-child h1,
+    .skills .projects h1,
+    .work h1,
+    .contact .cv h1{
+        font-size: 65px;
+        line-height: 65px;
+    }
+
+    .about .targeta .cards > div{
+        width: 32vw;
+
+    }
+}
